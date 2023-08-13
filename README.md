@@ -8,7 +8,7 @@
 - *人生最遗憾、最容易后悔的事情，不是“我不可以”，而是“我本可以”。*
 - *游戏 Rank不要太当真，不然真的化身恶魔 2333 . . .*
 - *最后的最后一定要去日本看一场烟花呀 ! (最爱潮惹！*
-![image](./img/1.png)
+<img src = "https://raw.githubusercontent.com/Sugar0612/Sugar0612/main/img/1.png" width="650" alt="love">
 
 ### 访客数
 ![Visitor Count](https://profile-counter.glitch.me/Sugar0612/count.svg)
