@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Sugar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sugar0612&count_private=true&show_icons=true&theme=tokyonight)
 <!--
 **Sugar0612/Sugar0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
