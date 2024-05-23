@@ -1,6 +1,6 @@
 ### Hi, there👋 I'm Shiyi Tang
 *I am a Unity developer and currently work in a game company.I am good at cooking and sports. I like the music of Jay Chou and Xu Song very much, and I also admire South Korea. The professional attitude of e-sports player Faker, they are my role models in life and study. I love life, games, reading, and learning new skills. Thank you for coming. I wish you all a happy programming and make progress every day :))) !!!*    
-### Skill  
+### Skills  
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,qt,mysql)](https://skillicons.dev)  
 
