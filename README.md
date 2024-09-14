@@ -17,4 +17,4 @@
   
 ***I'm happy to play with you! :))***
 ### Some Stats  
-![Sugar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sugar0612&count_private=true&show_icons=true&theme=tokyonight)  
+![Sugar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sugar0612\&rank_icon=percentile&theme=gruvbox)  
