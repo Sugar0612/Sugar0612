@@ -11,10 +11,5 @@
 - [ ] *Save a little money.*
 - [ ] *Maintain a regular schedule and develop the habit of reading.*
 
-### Digression  
-- *My Valorante id: Raguslylhs#Gnat[Hong Kong server] or 番茄麦乐脆脆鸡#98425[China mainland server]*
-- *Honkai: Star Rail UID: 121736737.*
-  
-***I'm happy to play with you! :))***
 ### Some Stats  
 ![Sugar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sugar0612\&rank_icon=percentile&theme=onedark)  
