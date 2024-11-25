@@ -12,4 +12,4 @@
 - [ ] *Maintain a regular schedule and develop the habit of reading.*
 
 ### Some Stats  
-![Sugar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sugar0612&count_private=true&show_icons=true&theme=tokyonight)
+![Sugar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sugar0612&count_private=true&show_icons=true&bg_color=00000000)  
