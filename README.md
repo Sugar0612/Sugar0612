@@ -22,4 +22,4 @@
   *- 读书方面我还是没有去好好的完成它，说实话我完全忘记了这个事情，在这件事上有点对不起1年前的自己。[2025-11-14]()*  
 
 ### Some Stats  
-![Sugar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sugar0612&count_private=true&show_icons=true&bg_color=00000000)  
+<!-- ![Sugar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sugar0612&count_private=true&show_icons=true&bg_color=00000000)  -->
