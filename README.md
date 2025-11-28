@@ -21,5 +21,5 @@
   *- 这个说实话这一年真心没有好好执行，之前买了一本《杀死一只知更鸟》我自己没看多少，被喜欢看书的妈妈看了两遍了哈哈哈。ps.我会在下来的一年努力做到的。[2025-03-19]()*  
   *- 读书方面我还是没有去好好的完成它，说实话我完全忘记了这个事情，在这件事上有点对不起1年前的自己。[2025-11-14]()*  
 
-### Some Stats  
-<!-- ![Sugar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sugar0612&count_private=true&show_icons=true&bg_color=00000000)  -->
+<!--### Some Stats  
+![Sugar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sugar0612&count_private=true&show_icons=true&bg_color=00000000)  -->
